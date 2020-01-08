@@ -1,1 +1,1 @@
-This is a XYZ application, version 1.0
+This is a XYZ application, version 1.1
