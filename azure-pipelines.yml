@@ -7,10 +7,10 @@
 # set some variables that you'll need when you deploy
 variables:
   # the name of the service connection that you created above
-  serviceConnectionToAzure: minfy
+  serviceConnectionToAzure: minfyjava
   # the name of your web app here is the same one you used above
   # when you created the web app using the Azure CLI
-  appName: minfy
+  appName: minfyjava
 
 trigger:
 - master
